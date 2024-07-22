@@ -1,4 +1,4 @@
-# 99club Day1 - 2024-07-22(Mon)
+# 99club Day1_middler - 2024-07-22(Mon)
 # https://school.programmers.co.kr/learn/courses/30/lessons/87390
 
 # n=1 [1] 1
