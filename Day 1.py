@@ -18,4 +18,5 @@ def solution(n, left, right):
 
     return answer
 
+
 print(solution(4, 5, 8))
