@@ -1,4 +1,4 @@
-# 99club Day2_beginner - 2024-07-24(Wed)
+# 99club Day3_middler - 2024-07-24(Wed)
 # https://school.programmers.co.kr/learn/courses/30/lessons/12915
 
 def solution(strings, n):
@@ -10,9 +10,7 @@ def solution(strings, n):
         strings[i] = strings[i][n] + strings[i]
     strings.sort()
 
-    for i in range(len(strings)):
-        answer.append(strings[i][1:])
-    return answer
+    return [strings[i][1:] for i in range(len(strings))]
 
 
 print(solution(["sun", "bed", "car"], 1))

@@ -1,4 +1,4 @@
-# 99club Day2_beginner - 2024-07-23(Tue)
+# 99club Day2_middler - 2024-07-23(Tue)
 # https://school.programmers.co.kr/learn/courses/30/lessons/12954
 
 def solution(x, n):
