@@ -3,20 +3,24 @@
 
 def solution(s):
     answer = ''
-    str = ''
+    word = ''
     arr = list(s.split(" "))
     for x in arr:
         count = 0
         for j in x:
             if count == 0 and j.isalpha() == True:
-                str = j.upper()
+                word = j.upper()
             else:
-                str = j.lower()
-            answer += str
+                word = j.lower()
+            answer += word
             count += 1
         answer += " "
     answer = answer[:-1]
     return answer
+
+    # words = s.split(" ")
+    # answer = [word[0].upper()+word[1:].lower() if word else "" for word in words]
+    # return " ".join(answer)
 
 
 print(solution("3people unFollowed me"))
