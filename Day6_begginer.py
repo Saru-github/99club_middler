@@ -1,4 +1,4 @@
-# 99club beginner - 2024-07-27(Sat)
+# 99club Day6_beginner - 2024-07-27(Sat)
 # https://school.programmers.co.kr/learn/courses/30/lessons/1845
 
 def solution(nums):

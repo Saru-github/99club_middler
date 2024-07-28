@@ -1,4 +1,4 @@
-# 99club Day4_beginner - 2024-07-26(Fri)
+# 99club Day5_beginner - 2024-07-26(Fri)
 # https://school.programmers.co.kr/learn/courses/30/lessons/42576
 
 def solution(participant, completion):
