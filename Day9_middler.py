@@ -1,7 +1,9 @@
-# 99club Day8_middler - 2024-07-30(Tue)
+# 99club Day9_middler - 2024-07-30(Tue)
 #https://school.programmers.co.kr/learn/courses/30/lessons/42626
 
 import heapq
+
+
 def solution(scoville, K):
     heapq.heapify(scoville)
     answer = 0
@@ -15,7 +17,7 @@ def solution(scoville, K):
         spicy = heapq.heappop(scoville)
         answer += 1
 
-
     return answer
+
 
 print(solution([1, 2, 3, 9, 10, 12], 7))
