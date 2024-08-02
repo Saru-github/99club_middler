@@ -1,4 +1,4 @@
-# 99club Day11_middler - 2024-08-02(Fri)
+# 99club Day12_middler - 2024-08-02(Fri)
 # https://school.programmers.co.kr/learn/courses/30/lessons/42747
 
 def solution(citations):
