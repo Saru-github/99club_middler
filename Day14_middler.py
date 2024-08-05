@@ -1,4 +1,4 @@
-# 99club Day13_middler - 2024-08-03(Sat)
+# 99club Day14_middler - 2024-08-04(Sun)
 # https://www.acmicpc.net/problem/10815
 
 from collections import Counter
