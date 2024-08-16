@@ -1,4 +1,4 @@
-# 99club Day25_middler - 2024-08-15(Wed)
+# 99club Day25_middler - 2024-08-15(Thu)
 # https://leetcode.com/problems/evaluate-division/submissions/1356248765/
 
 def solution(keymap, targets):
