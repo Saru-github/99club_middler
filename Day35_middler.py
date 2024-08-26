@@ -1,5 +1,5 @@
 # 99club Day35_middler - 2024-08-25(Sun)
-# https://school.programmers.co.kr/learn/courses/30/lessons/1844#qna
+# https://school.programmers.co.kr/learn/courses/30/lessons/1844
 
 from collections import deque
 
